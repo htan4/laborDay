@@ -4,3 +4,6 @@ This is the change to laborDay2/HailinTan
 =======
 This is added to laborDay/HailinTan
 >>>>>>> 433e9251ffd8093c9797787d9d29fc7528b3efb4
+
+这次在分支上改一下ＨａｉｌｉｎＴａｎ这个文件
+
