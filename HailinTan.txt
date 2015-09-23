@@ -5,5 +5,10 @@ This is the change to laborDay2/HailinTan
 This is added to laborDay/HailinTan
 >>>>>>> 433e9251ffd8093c9797787d9d29fc7528b3efb4
 
+<<<<<<< HEAD
 
 added by LaborDay2
+=======
+这次在分支上改一下ＨａｉｌｉｎＴａｎ这个文件
+
+>>>>>>> 7167d8365225dad5f576c5d66f9d89f717281a5c
